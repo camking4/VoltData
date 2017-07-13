@@ -1,55 +1,21 @@
 {
-  "name": "GeneralData",
-  "plural": "GeneralDatas",
-  "classname": "GeneralData",
-  "properties": {
-    "id": {
-      "type": "string",
-      "id": true
+    "controlModes" : {
+        "PQEnabled" : false,
+        "VFEnabled" : false,
+        "QFEnabled" : false,
+        "PVEnabled" : false
     },
-    "PQEnabled": {
-      "type": "boolean",
-      "required": true
+    "gridStatuses" : {
+        "onGrid" : false,
+        "offGrid" : true
     },
-    "VFEnabled": {
-      "type": "boolean",
-      "required": true
+    "setPoints" : {
+        "realPwrSet" : 0.0,
+        "reactPwrSet" : 0.0,
+        "voltageSet" : 0.0,
+        "freqSet" : 0.0
     },
-    "QFEnabled": {
-      "type": "boolean",
-      "required": true
-    },
-    "PVEnabled": {
-      "type": "boolean",
-      "required": true
-    },
-    "onGrid": {
-      "type": "boolean",
-      "required": true
-    },
-    "offGrid": {
-      "type": "boolean",
-      "required": true
-    },
-    "realPwrSet": {
-      "type": "number",
-      "required": true
-    },
-    "reactPwrSet": {
-      "type": "number",
-      "required": true
-    },
-    "voltageSet": {
-      "type": "number",
-      "required": true
-    },
-    "freqSet": {
-      "type": "number",
-      "required": true
-    },
-    "time": {
-      "type": "number",
-      "required": true
+    "times" : {
+        "time" :  0.0
     }
-  }
 }
