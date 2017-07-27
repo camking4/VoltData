@@ -28,6 +28,7 @@ The VOLTTRON App currently uses a layer of *Views*, managed by *View Controllers
 * **
 
 **Versions**
+*To ensure that the application runs properly, please ensure that you're app version matches the current stable version.*
 * Current Stable Version: Version 1.0
 * Current Supported Devices: 
     * iPhone 5
