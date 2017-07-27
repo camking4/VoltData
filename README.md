@@ -28,15 +28,15 @@ The VOLTTRON App currently uses a layer of *Views*, managed by *View Controllers
 * **
 
 **Versions**
-Current Stable Version: Version 1.0
-Current Supported Devices: 
-* iPhone 5
-* iPhone 5c
-* iPhone 5s
-* iPhone 6
-* iPhone 6 Plus
-* iPhone 7
-* iPhone 7 Plus
+    * Current Stable Version: Version 1.0
+    * Current Supported Devices: 
+      * iPhone 5
+      * iPhone 5c
+      * iPhone 5s
+      * iPhone 6
+      * iPhone 6 Plus
+      * iPhone 7
+      * iPhone 7 Plus
 * **
 
 **Contact**
